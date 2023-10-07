@@ -24,8 +24,17 @@ Before running the app, make sure you have the following prerequisites installed
 ## Installation
 
 1. Clone the repository to your local machine:
+      clone the repo
+      cd into the project
+      npm install
+      npm start
+      then its good to go
 
-   ```bash
-   git clone https://github.com/your-username/transport-monitoring-app.git
-   cd transport-monitoring-app
+This command will create a production-ready build of the app.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Thanks to the open-source community for providing the tools and libraries used in this project.
+Special thanks to Expo for simplifying React Native development.
