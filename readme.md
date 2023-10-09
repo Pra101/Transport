@@ -24,11 +24,11 @@ Before running the app, make sure you have the following prerequisites installed
 ## Installation
 
 1. Clone the repository to your local machine:
-      clone the repo
-      cd into the project
-      npm install
-      npm start
-      then its good to go
+2. clone the repo
+3. cd into the project
+4. npm install
+5. npm start
+6. then its good to go
 
 This command will create a production-ready build of the app.
 
